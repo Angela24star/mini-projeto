@@ -1,1 +1,53 @@
+Projeto de Análise de Dados — Base Varejo
+1. Objetivo do projeto
+Este projeto tem como objetivo realizar o tratamento, a transformação e a análise exploratória de uma base de dados de varejo utilizando Python e a biblioteca Pandas.
 
+O trabalho foi desenvolvido em etapas, contemplando a importação dos dados, a limpeza das informações, a transformação dos tipos de variáveis, a aplicação de estatística descritiva e a construção de um relatório final.
+
+2. Tecnologias utilizadas
+Python
+Pandas
+Expressões regulares com re
+Matplotlib para visualização de dados
+Visual Studio Code e notebooks Python
+Git e GitHub para versionamento e documentação, caso utilizados no projeto
+
+3. Etapas desenvolvidas
+Sprint 1 — Importação e exploração dos dados
+Importação da base de varejo e identificação das colunas, dos registros e dos tipos de dados existentes.
+
+Sprint 2 — Transformação e limpeza dos dados
+Desenvolvimento de funções para limpeza de strings, tratamento de valores numéricos inteiros e decimais e conversão de datas. Foram utilizados métodos de strings e expressões regulares para padronização dos dados.
+
+Sprint 3 — [Inserir o objetivo da Sprint 3]
+Descrever as atividades realizadas nesta etapa conforme os requisitos do projeto.
+
+Sprint 4 — Estatística descritiva
+Aplicação de medidas estatísticas à coluna de número de filhos dos clientes, incluindo média, mediana, moda, mínimo, máximo, quartis e desvio padrão. Também foi analisada a frequência dos valores e preparada uma visualização da distribuição.
+
+Sprint 5 — Relatório e documentação
+Construção de contadores para apresentar informações gerais da base, quantidade de clientes e produtos únicos, período dos registros, qualidade dos dados e estatísticas da coluna de número de filhos. Finalização da documentação do projeto.
+
+4. Reflexão teórica
+O desenvolvimento deste projeto permitiu compreender a importância da qualidade dos dados antes da realização de análises. Dados ausentes, tipos incorretos, espaços desnecessários e formatos inconsistentes podem comprometer os resultados e levar a interpretações inadequadas.
+
+A utilização do Pandas facilitou a manipulação dos dados e o cálculo das medidas estatísticas. As expressões regulares contribuíram para a padronização de textos e a limpeza de valores, enquanto a conversão de datas permitiu preparar a base para análises temporais.
+
+A estatística descritiva possibilitou resumir as características da variável número de filhos dos clientes e compreender sua distribuição. Entretanto, é importante considerar que uma mesma pessoa pode aparecer em vários registros de compras. Por isso, a interpretação dos resultados deve levar em conta a estrutura da base e a unidade de análise utilizada.
+
+Conclui-se que o tratamento, a validação e a documentação são etapas fundamentais para tornar uma análise de dados mais confiável, reproduzível e compreensível.
+
+5. Resultados
+Preencher esta seção com os resultados obtidos após a execução do relatório final, incluindo a quantidade de registros, os clientes únicos, os produtos únicos e as principais medidas estatísticas.
+
+6. Como executar o projeto
+Instalar o Python.
+Instalar as bibliotecas necessárias, como Pandas e Matplotlib.
+Disponibilizar o arquivo CSV no caminho configurado no código.
+Executar as células do notebook na ordem correta.
+Executar a função de geração do relatório final.
+7. Considerações finais
+O projeto reuniu práticas de importação, limpeza, transformação, análise estatística e documentação de dados. As etapas desenvolvidas demonstram como o Python pode apoiar a preparação e a exploração de uma base de varejo, criando condições para análises futuras.
+
+Autor(a): [Angela Noelia Salinas]
+Curso/Turma: [Análise de Dados com Python [T7]
